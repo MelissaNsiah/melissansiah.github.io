@@ -1,0 +1,164 @@
+nav a {
+  font-size: 16px;
+}
+.nav-brand {
+  font-weight: bold;
+}
+body {
+  font-family: 'Fira Sans', sans-serif;
+}
+.jumbotron {
+  background-color: black;
+  margin-top: 20px;
+}
+
+.jumbotron h1 {
+  color: white;
+}
+
+
+.jumbotron .thumbnail {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.skills {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: red;
+}
+
+.skills p {
+  text-decoration: underline;
+  color: white;
+}
+
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  padding-top: 10px;
+  font-weight: 700;
+  text-align: center;
+}
+
+ a {
+  color: black;
+  font-size: 36px;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+header {
+  text-align: center;
+}
+
+form {
+  text-align: left;
+  color: white;
+}
+
+.form button {
+  display: block;
+  margin: 0 auto;
+
+}
+
+
+.my_logo {
+  height: 250px;
+  width: 250px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 40px;
+}
+
+.logo {
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+}
+
+
+
+form label {
+  font-weight: bold;
+  padding-left: 5px;
+}
+
+footer {
+  padding-top: 100px;
+}
+
+.social {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-evenly;
+  align-content: center;
+}
+
+.social a {
+  color: red;
+
+}
+
+.social a:hover {
+  text-decoration: none;
+}
+
+.pro {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.pro h3 {
+  padding-top: 50px;
+  font-weight: bold;
+
+}
+
+.pro p {
+  font-size: 14px;
+
+}
+
+.navassign {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.navassign a {
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.navassign .btn {
+  width: 50%;
+  text-align: center;
+
+}
+
+.top {
+  position: fixed;
+  margin-left: 20px;
+}
+
+#carouselCaptions {
+  margin-top: 20px;
+}
