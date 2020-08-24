@@ -19,9 +19,9 @@
 </button>
 <div class="collapse navbar-collapse" id="navbar">
   <div class="navbar-nav ml-auto">
-    <a class="nav-link" href="contact.html">Contact</a>
-    <a class="nav-link" href="projects.html">Projects</a>
-    <a class="nav-link active" href="photos.html">Photos <span class="sr-only">(current)</span></a>
+    <a class="nav-link" href="contact">Contact</a>
+    <a class="nav-link" href="projects">Projects</a>
+    <a class="nav-link active" href="photos">Photos <span class="sr-only">(current)</span></a>
   </div>
 </div>
 </nav>
